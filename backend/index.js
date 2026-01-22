@@ -96,3 +96,4 @@ app.get("/api/secret", (req, res) => {
 app.listen(PORT, () => {
   console.log(`VibeCheck API running at http://localhost:${PORT}`);
 });
+// API routes feature branch - first commit
